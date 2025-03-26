@@ -12,7 +12,7 @@ This repository demonstrates a **Stored XSS** vulnerability found in the Wagtail
 1. Upload a PDF document that contains a malicious script, like the one provided in this repository.
 ![Ekran görüntüsü 2025-03-26 025701](https://github.com/user-attachments/assets/dddb03c7-ec89-45ef-8b95-1f5ae3fcf521)
 ![Ekran görüntüsü 2025-03-26 025903](https://github.com/user-attachments/assets/c5ad6c89-f81e-4b17-bb35-6c593ab0beb5)
-![Ekran görüntüsü 2025-03-26 025845](https://github.com/user-attachments/assets/cf8a3a8f-16e9-4c95-ad07-5fe2d7296fe5)
+
 
 2. Access the CMS and locate the malicious PDF.
 3. Click on the PDF link.
