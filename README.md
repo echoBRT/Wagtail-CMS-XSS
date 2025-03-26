@@ -20,7 +20,7 @@ This repository demonstrates a **Stored XSS** vulnerability found in the Wagtail
 
 
 5. The malicious JavaScript will trigger and display an XSS popup every time the PDF is opened.
-6. 
+ 
 ![Ekran görüntüsü 2025-03-26 030008](https://github.com/user-attachments/assets/5e7d575c-6539-4d9e-b621-7c7db96df7bd)
 
 ## PoC Code
