@@ -1,4 +1,4 @@
-# Wagtail-6.4.1-CMS-XSS
+# Wagtail-6.4.1-CMS-XSS CVE-2025-45388
 Wagtail CMS 6.4.1 Stored XSS
 
 # CMS Stored XSS Vulnerability PoC
