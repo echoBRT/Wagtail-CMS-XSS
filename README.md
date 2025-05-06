@@ -23,7 +23,4 @@ This repository demonstrates a **Stored XSS** vulnerability found in the Wagtail
  
 ![Ekran görüntüsü 2025-03-26 030008](https://github.com/user-attachments/assets/5e7d575c-6539-4d9e-b621-7c7db96df7bd)
 
-## PoC Code
-
-![pdf içeriği](https://github.com/user-attachments/assets/86249edb-1fed-4d13-9508-7f65c8731caa)
 
